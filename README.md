@@ -4,9 +4,19 @@
 Sobre mí:
 
 Soy Licenciada en Administración de Empresas en transición laboral a Data Analyst.
-- 🔭 Actualmente estoy terminando un bootcamp online tecnológico orientado al Data Analyst en Practicum. 
+- 🔭 Recientemente terminé un bootcamp online tecnológico orientado al Data Analyst en TripleTen antes llamado Practicum. 
 - 🌱 Aprendiendo y practicando lenguaje Python, SQL y Tableau para generar informes.
 - 📫 ¿Quieres contactarte conmigo? [LinkedIn](https://www.linkedin.com/in/carmenpujato/)
+
+
+
+About me:
+
+I have a Business Management degree transitioning to a Data Analyst role.
+- 🔭 I recently completed an online technological bootcamp on Data Analyst at TripleTen formerly Practicum.
+- 🌱 Continuously learning and practicing Python and SQL as well as data visualization with Tableau.
+- 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/carmenpujato/)
+
 
 ## Skills
 
