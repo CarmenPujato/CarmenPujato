@@ -12,7 +12,7 @@ Soy Licenciada en Administración de Empresas en transición laboral a Data Anal
 
 About me:
 
-I have a Business Management degree transitioning to a Data Analyst role.
+I have a Business Management degree, transitioning to a Data Analyst role.
 - 🔭 I recently completed an online technological bootcamp on Data Analyst at TripleTen formerly Practicum.
 - 🌱 Continuously learning and practicing Python and SQL as well as data visualization with Tableau.
 - 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/carmenpujato/)
